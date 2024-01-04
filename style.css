@@ -1,0 +1,18 @@
+@media screen and (max-width: 767px) {
+    .offerta {
+        display: none;
+    }
+}
+div.card > img {
+    max-height: 180px;
+    min-height: 180px;
+}
+div.d-flex > img {
+    max-width: 30px;
+}
+footer {
+    font-size: 10px;
+}
+div.d-flex > button {
+    max-height: 30px;
+}
